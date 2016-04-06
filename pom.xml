@@ -19,7 +19,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.collaborne.qa</groupId>
 	<artifactId>test-helpers</artifactId>
-	<version>1.0</version>
+	<version>1.1-SNAPSHOT</version>
 
 	<parent>
 		<groupId>com.collaborne</groupId>
@@ -35,7 +35,7 @@
 	<scm>
 		<connection>scm:git:https://github.com/Collaborne/test-helpers</connection>
 		<developerConnection>${project.scm.connection}</developerConnection>
-	  <tag>test-helpers-1.0</tag>
+	  <tag>HEAD</tag>
   </scm>
 
 	<developers>
